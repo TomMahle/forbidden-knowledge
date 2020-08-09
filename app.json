@@ -1,0 +1,12 @@
+{
+  "name": "forblidden-knowledge",
+  "displayName": "forblidden-knowledge",
+  "expo": {
+    "name": "forblidden-knowledge",
+    "slug": "forblidden-knowledge",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
